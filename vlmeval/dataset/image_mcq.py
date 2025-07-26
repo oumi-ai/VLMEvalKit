@@ -58,7 +58,7 @@ class ImageMCQDataset(ImageBaseDataset):
         'MMBench_CN_V11': 'https://opencompass.openxlab.space/utils/benchmarks/MMBench/MMBench_CN_V11.tsv',  # Internal
         # LiveXiv
         'LiveXivTQA': 'https://huggingface.co/datasets/penfever/LiveXiv-VLMEvalKit/resolve/main/LiveXiv_TQA_v4.tsv',
-        'LiveXivVQA': 'https://huggingface.co/datasets/penfever/LiveXiv-VLMEvalKit/resolve/main/LiveXiv_TQA_v4.tsv',
+        'LiveXivVQA': 'https://huggingface.co/datasets/penfever/LiveXiv-VLMEvalKit/resolve/main/LiveXiv_VQA_v4.tsv',
         # SEEDBench Series
         'SEEDBench_IMG': 'https://opencompass.openxlab.space/utils/benchmarks/SEEDBench/SEEDBench_IMG.tsv',
         'SEEDBench2': 'https://huggingface.co/datasets/VLMEval/SEEDBench2/resolve/main/SEEDBench2.tsv',
